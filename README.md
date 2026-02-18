@@ -1,4 +1,4 @@
 # kpo1lab
 
-afkfskfl = 0
+afkfskfl = 2
 ;lasfkdlsaf
